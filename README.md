@@ -8,7 +8,7 @@
 
 ### Hi there 👋, my name is Atakan
 
-Skills: Python / C# / JS / HTML / CSS
+Skills: Python / C# / JS / HTML / CSS / C++ 
 
 - 🌱 I’m currently learning c++| JavaScript 
 
